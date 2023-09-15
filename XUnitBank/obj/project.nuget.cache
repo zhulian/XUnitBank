@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EvsY7I/GVUbAUAW5ePv2coplvjZnGRVaeeBnFuGrEvqs6jfmrLTKETWpcKNI7oOmzkdG0UfChoRqv3514BE8XQ==",
+  "success": true,
+  "projectFilePath": "D:\\XUnitBank\\XUnitBank\\XUnitBank.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://203.127.254.70/api/v4/projects/71/packages/nuget/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
